@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Author: Mayank Dharwa
+ */
+
 namespace ConsoleOut;
 
 class Colour
