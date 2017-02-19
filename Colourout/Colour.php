@@ -1,11 +1,13 @@
 <?php
 
+namespace Colourout;
+
 /**
- * Author: Mayank Dharwa
+ * Colour - Add colours to PHP CLI Output
+ *
+ * For Usase check README.md
+ * GitHub Repo: https://github.com/mayankdharwa/php-cli-colour
  */
-
-namespace ConsoleOut;
-
 class Colour
 {
     const BLACK = 'BLACK';
